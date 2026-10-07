@@ -1,8 +1,8 @@
-# Política de privacidad – Kiosko Empresa
+# Política de privacidad – Lokon Empresa
 
 Última actualización: 7 de octubre de 2026
 
-Kiosko Empresa es una aplicación de uso interno que convierte teléfonos de una empresa en equipos de trabajo bloqueados ("modo kiosco"). Solo se instala en teléfonos de propiedad de la empresa, configurados por un técnico autorizado.
+Lokon Empresa es una aplicación de uso interno que convierte teléfonos de una empresa en equipos de trabajo bloqueados ("modo kiosco"). Solo se instala en teléfonos de propiedad de la empresa, configurados por un técnico autorizado.
 
 ## Qué información usa la app
 - **Lista de aplicaciones instaladas:** para mostrar al trabajador solo las apps que el técnico permitió.
@@ -19,7 +19,7 @@ Kiosko Empresa es una aplicación de uso interno que convierte teléfonos de una
 La app funciona como administrador del dispositivo (Device Owner) para impedir que se desinstalen apps, se cambien ajustes o se salga del kiosco. Estos permisos los activa un técnico de la empresa y se pueden quitar desde el panel del técnico.
 
 ## Otras aplicaciones
-Las apps que el técnico permite (por ejemplo WhatsApp o WiaTag) tienen sus propias políticas de privacidad. Kiosko Empresa no controla la información que esas apps recopilan.
+Las apps que el técnico permite (por ejemplo WhatsApp o WiaTag) tienen sus propias políticas de privacidad. Lokon Empresa no controla la información que esas apps recopilan.
 
 ## Contacto
 Para consultas sobre esta política: viny.aguilera@gmail.com
